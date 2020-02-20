@@ -25,3 +25,4 @@ emp1.setEmpDetails('Rohit', 1001, 1236547890) //set variables values using above
 console.log(emp1.getEmpName()) //function to get username
 console.log(emp1.getEmpId())
 console.log(emp1.getEmpPhone())
+//console.log(test)
